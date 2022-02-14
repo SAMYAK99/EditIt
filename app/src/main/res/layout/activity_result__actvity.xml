@@ -8,7 +8,7 @@
     tools:context=".Result_Actvity">
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/back_btn"
         android:layout_width="32dp"
         android:layout_height="32dp"
         android:layout_marginStart="16dp"
@@ -19,7 +19,7 @@
         app:srcCompat="@drawable/ic_left_arrow" />
 
     <ImageView
-        android:id="@+id/imageView4"
+        android:id="@+id/home_btn"
         android:layout_width="32dp"
         android:layout_height="32dp"
         android:layout_marginTop="16dp"
