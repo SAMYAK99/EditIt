@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Edit It - Photo Editing App"
